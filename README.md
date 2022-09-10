@@ -1,7 +1,7 @@
 <h1 align="center" style="padding-bottom: 30px">
     The Riddler - Solutions
 </h1 >
-  <p align="center" style="font-size: 1.2rem">Again, trying my best to make my old professors happy.</p>
+  <p align="center" style="font-size: 1.2rem">Again, trying my best to make my old professors happy. A few solutions to FiveThirtyEight's <a href="https://fivethirtyeight.com/tag/the-riddler/">The Riddler</a>.</p>
 
 <hr />
 
